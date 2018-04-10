@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/Skwarte/Twitter-Trends#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "monkeylearn": "^0.1.11"
+    "express": "^4.16.3"
   }
 }
