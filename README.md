@@ -1,1 +1,1 @@
-# Twitter-Trends
+# Twitter Trends
